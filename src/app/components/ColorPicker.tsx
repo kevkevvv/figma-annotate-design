@@ -20,7 +20,7 @@ const ColorPicker = ({ onThemeChange }) => {
   const presetColors = [
     { background: "#131314", border: "#FFFFFF26", theme: "dark" },
     { background: "#ffffff", border: "#13131421", theme: "light" },
-    { background: "#F0BCBC", border: "#13131421", theme: "red" },
+    { background: "#E1214F", border: "#13131421", theme: "red" },
     { background: "#F0DEBC", border: "#13131421", theme: "yellow" },
     { background: "#BCF0D8", border: "#13131421", theme: "green" },
     { background: "#BCC5F0", border: "#13131421", theme: "purple" },
